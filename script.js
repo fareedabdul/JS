@@ -70,13 +70,36 @@
 // console.log(getGrade(89));
 
 
-function rps(user,computer){
-    if (user === computer) return "Draw"
+// function rps(user,computer){
+//     if (user === computer) return "Draw"
     
-    if(user == "paper"  && computer =="rock") return "user"
-    if(user == "scissor" && computer == 'paper') return "user"
-    if(user=="rock" && computer== "scissor") return "user"
+//     if(user == "paper"  && computer =="rock") return "user"
+//     if(user == "scissor" && computer == 'paper') return "user"
+//     if(user=="rock" && computer== "scissor") return "user"
 
-    return "computer"
+//     return "computer"
+// }
+// console.log(rps("paper","rock"))
+
+// for(kahase start karna hai, condition, increment){
+// statements 
+// }
+
+// for(let i = 1; i < 11; i++){
+//     console.log(i);
+// }
+
+
+// i = 1
+// while(i <= 33){
+//     console.log("Fareed");
+//     i++
+// }
+
+i = 1
+do{
+console.log("fareed");
+console.log(i);
+i++
+}while(i<32){
 }
-console.log(rps("paper","rock"))
