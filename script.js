@@ -69,3 +69,14 @@
 
 // console.log(getGrade(89));
 
+
+function rps(user,computer){
+    if (user === computer) return "Draw"
+    
+    if(user == "paper"  && computer =="rock") return "user"
+    if(user == "scissor" && computer == 'paper') return "user"
+    if(user=="rock" && computer== "scissor") return "user"
+
+    return "computer"
+}
+console.log(rps("paper","rock"))
