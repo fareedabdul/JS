@@ -96,10 +96,63 @@
 //     i++
 // }
 
-i = 1
-do{
-console.log("fareed");
-console.log(i);
-i++
-}while(i<32){
-}
+// i = 1
+// do{
+// console.log("fareed");
+// console.log(i);
+// i++
+// }while(i<32){
+// }
+
+
+// for(let i = 1; i < 31; i++){
+//     if (i == 15){ 
+//         continue;
+//     }
+//     console.log(i)
+// }
+
+
+// for(let i = 1; i <11; i++){
+//     console.log(i)
+// }
+
+
+// i = 10
+// while(i>0){
+//     console.log(i);
+//     i--
+    
+
+// for(let i = 1; i < 21; i++){
+//     if(i%2==0){
+//         console.log(i);
+//     }
+// }
+
+// for(let i = 1; i < 16; i++){
+//     if(i%2!=0){
+//         console.log(i);
+//     }
+// }
+
+
+// let val = 5
+
+// for(let i = 1; i<11; i++){
+//     console.log(`${val}x${i}=${val* i}`);
+    
+// }
+
+// let sum = 0
+// for(let i = 1;i< 101; i++){
+//      sum += i   
+// }
+// console.log(sum);
+
+
+// for(let i = 1; i <50; i++){
+//     if(i%3==0){
+//         console.log(i)
+//     }
+// }
