@@ -247,3 +247,26 @@
     
 // })
 
+
+// function abcd(){
+//     return function(){
+//         console.log("HOF");
+        
+//     }
+// }
+// abcd()()
+
+// let a = 10
+// function abcd(){
+//     console.log("hellow");
+// }
+
+// function cd(){
+//     console.log(a++);
+//     console.log(a);
+// }
+
+
+// cd()
+
+
