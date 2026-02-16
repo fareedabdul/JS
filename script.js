@@ -156,3 +156,54 @@
 //         console.log(i)
 //     }
 // }
+
+// let num = prompt("enter the number")
+
+// if(num % 2 == 0){
+//     console.log(`${num} is even`);
+    
+// }else{
+//     console.log(`${num} is odd`)
+// }
+
+// count = 0
+// for(let i = 1;i<101;i++){
+//     if(i % 3 === 0 && i % 5 === 0){
+//         console.log(i);
+        
+//     }
+    
+// }
+
+// for(let i = 1;i<101; i++){
+//     if(i % 7 ==0){
+//         break;
+//     }
+//     console.log(i);
+// }
+
+// for(let i = 1; i < 21; i++){
+// if( i %3 === 0){
+//     continue
+// }
+// console.log(i);
+
+    
+// }
+
+
+
+// Functions 
+
+
+// function decalration 
+// function abcd(){
+//     console.log("hello")
+// }
+
+// abcd()
+
+let abcd = function(){
+    console.log("kaiku aaisa");
+    
+}
