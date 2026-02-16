@@ -203,7 +203,47 @@
 
 // abcd()
 
-let abcd = function(){
-    console.log("kaiku aaisa");
+// let abcd = function(){
+//     console.log("kaiku aaisa");
     
-}
+// }
+
+// let arrow = ()=>{
+//     console.log("hello arrow bhai")
+// }
+
+// arrow()
+
+// function abcd(a=0,b=0){
+//     console.log(a+b)
+// }
+// abcd()
+
+
+// rest operator 
+
+// function abcd(){
+//     if(14>15) return "true"
+//     else return "false"
+// }
+
+// console.log(abcd())
+
+
+
+// let abcd = function(){
+//     console.log("first class hai ");
+// }
+
+// abcd()
+
+
+// function abcd(val){
+//     console.log(val());
+// }
+
+// abcd(function(){
+//     console.log("inner function");
+    
+// })
+
